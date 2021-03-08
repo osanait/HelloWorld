@@ -1,3 +1,3 @@
 fun main(){
-    println("こんにちは")
+    println("こんにち")
 }
